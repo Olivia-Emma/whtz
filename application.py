@@ -1,1 +1,1 @@
-print('whtz-app')
+print('whtz-app-starting')
